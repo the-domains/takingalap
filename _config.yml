@@ -1,6 +1,6 @@
 name: TakingALap
 favicon: null
-layout_spectrum: 0.4385415557771921
+layout_spectrum: 0.73896
 typography_spectrum: 0.9450052173342556
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.3275846214964986
+  brandStrength: 0.75
   lightness: 0.4495581118389964
   saturation: 0.5567371256183833
   rhythmicContrast: 0.004850324941799045
