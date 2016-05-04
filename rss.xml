@@ -4,8 +4,15 @@
         <description><![CDATA[TakingALap]]></description>
         <link>https://thegrid.ai/takingalap/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 17:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 17:21:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/takingalap/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is another test of adding content to the site</p>]]></description>
+            <link>https://thegrid.ai/takingalap/this-is-another-test-of-adding-content-to-the-site/index.html</link>
+            <guid isPermaLink="false">a3f40007-ee35-4fd8-bc33-5b2bebe7bb1b</guid>
+            <pubDate>Wed, 04 May 2016 17:21:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c92c15-8241-4e62-8c5c-f7a0f3c14a90.jpg">]]></description>
