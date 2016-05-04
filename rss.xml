@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TakingALap]]></title>
         <description><![CDATA[TakingALap]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/takingalap/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 16:45:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 16:50:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/takingalap/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://www.takingalap.com/the-daily-dump/2015/5/25/may-18th-2015-shanghai-china-day-276</p>]]></description>
-            <link>undefinedhttpwwwtakingalapcomthe-daily-dump2015525may-18th-/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4c92c15-8241-4e62-8c5c-f7a0f3c14a90.jpg">]]></description>
+            <link>https://thegrid.ai/takingalap/httpwwwtakingalapcomthe-daily-dump2015525may-18th-/index.html</link>
             <guid isPermaLink="false">3991a73b-8895-4e19-83be-8e2e6ea24751</guid>
-            <pubDate>Wed, 04 May 2016 16:44:43 GMT</pubDate>
+            <pubDate>Wed, 04 May 2016 16:50:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
